@@ -20,7 +20,6 @@ The **Countdown Timer** allows users to set a target date and time, and it will 
 - **CSS**: Applied for styling the webpage and ensuring responsiveness.
 - **JavaScript**: Implemented for calculating the time remaining and updating the DOM in real-time.
 
-
 ## Installation
 
 To get started with the project, follow these steps:
